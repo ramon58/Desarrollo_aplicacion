@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Form Semana Dos</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="fecha_edicion"><b>Fecha de nacimiento:</b></string>
+    <string name="data">Fecha de nacimiento</string>
+    <string name="ok">OK</string>
+    <string name="set">Set date</string>
+    <string name="telefono">Teléfono</string>
+    <string name="telefono_edicion">Teléfono: </string>
+    <string name="email">Email</string>
+    <string name="email_edicion">Email: </string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="descripcion_edicion">Descripción: </string>
+    <string name="comfirmar">CONFIRMAR DATOS</string>
+    <string name="enviar">SIGUIENTE</string>
+    <string name="editar">EDITAR DATOS</string>
+
+
+</resources>
